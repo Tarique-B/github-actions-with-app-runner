@@ -9,3 +9,14 @@
     "author": "",
     "license": "ISC"
 }
+{
+    ... 
+    "dependencies": {
+        "express": "^4.17.1"
+    }
+    ...
+}
+"scripts": {
+    "start": "node index.js"
+}
+
